@@ -1,7 +1,7 @@
 import Foundation
 
 public struct Entitlements: Decodable {
-    let betaReportsActive: Bool
+    let betaReportsActive: Bool?
     let passTypeIdentifiers: [String]
     let applicationIdentifier: String
     let keychainAccessGroups: [String]
