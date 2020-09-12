@@ -1,20 +1,20 @@
 import Foundation
 
 public struct ProvisioningProfile: Decodable {
-    let appIDName: String
-    let name: String
-    let applicationIdentifierPrefix: [String]
-    let creationDate: Date
-    let platform: [String]
-    let isXcodeManaged: Bool
-    let developerCertificates: [Data]
-    let expirationDate: Date
-    let entitlements: Entitlements
-    let teamIdentifier: [String]
-    let teamName: String
-    let timeToLive: Int
-    let uuid: UUID
-    let version: Int
+    public let appIDName: String
+    public let name: String
+    public let applicationIdentifierPrefix: [String]
+    public let creationDate: Date
+    public let platform: [String]
+    public let isXcodeManaged: Bool
+    public let developerCertificates: [Data]
+    public let expirationDate: Date
+    public let entitlements: Entitlements
+    public let teamIdentifier: [String]
+    public let teamName: String
+    public let timeToLive: Int
+    public let uuid: UUID
+    public let version: Int
 
     private enum CodingKeys: String, CodingKey {
         case name = "Name"
