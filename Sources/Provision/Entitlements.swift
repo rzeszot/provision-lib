@@ -2,12 +2,12 @@ import Foundation
 
 public struct Entitlements: Decodable {
     let betaReportsActive: Bool?
-    let passTypeIdentifiers: [String]
-    let applicationIdentifier: String
-    let keychainAccessGroups: [String]
-    let getTaskAllow: Bool
-    let teamIdentifier: String
-    let apsEnvironment: String
+    let passTypeIdentifiers: [String]?
+    let applicationIdentifier: String?
+    let keychainAccessGroups: [String]?
+    let getTaskAllow: Bool?
+    let teamIdentifier: String?
+    let apsEnvironment: String?
 
     private enum CodingKeys: String, CodingKey {
         case betaReportsActive = "beta-reports-active"
