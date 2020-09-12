@@ -1,0 +1,65 @@
+<plist version="1.0">
+    <dict>
+        <key>AppIDName</key>
+        <string>Store</string>
+        <key>ApplicationIdentifierPrefix</key>
+        <array>
+            <string>9G47WR9NR2</string>
+        </array>
+        <key>CreationDate</key>
+        <date>2020-04-02T16:51:01Z</date>
+        <key>Platform</key>
+        <array>
+            <string>iOS</string>
+        </array>
+        <key>IsXcodeManaged</key>
+        <false />
+        <key>DeveloperCertificates</key>
+        <array>
+            <data>MIIFszCCBJugAwIBAgIIQ4OX9/gTBGYwDQYJKoZIhvcNAQELBQAwgZYxCzAJBgNVBAYTAlVTMRMwEQYDVQQKDApBcHBsZSBJbmMuMSwwKgYDVQQLDCNBcHBsZSBXb3JsZHdpZGUgRGV2ZWxvcGVyIFJlbGF0aW9uczFEMEIGA1UEAww7QXBwbGUgV29ybGR3aWRlIERldmVsb3BlciBSZWxhdGlvbnMgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkwHhcNMjAwMzE2MjEzMzMwWhcNMjEwMzE2MjEzMzMwWjCBkTEaMBgGCgmSJomT8ixkAQEMCjlHNDdXUjlOUjIxODA2BgNVBAMML0FwcGxlIERpc3RyaWJ1dGlvbjogRGFtaWFuIFJ6ZXN6b3QgKDlHNDdXUjlOUjIpMRMwEQYDVQQLDAo5RzQ3V1I5TlIyMRcwFQYDVQQKDA5EYW1pYW4gUnplc3pvdDELMAkGA1UEBhMCUEwwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC6ASuguEtoDLY2jpmkLyeXs6fUm+erE86SA9jPRZvf6ydM/flleXdvotCf9aDM9dMBT72xwxQ4TcYfv9sURnz0MqdUUwQwDgxR23rj4nst1+TQmLCvYeJ6u7X4pypNld3mSK1dT6FbnCUteOy1glaF3RhaOQOTG72gakHcy74cnE238tYqs0qzNfPDgwFTQVZoxIVJPPtFN7777lZNgAjNI/q0Rqskz0R1q/iozJHSuBUabncq3SWzLEbhIl1/J/OxJ+UYvEZU+BxOYKy+cA5PAPTEGI65VRT6dHnOz/DpVuHBnj/tcMMSmeUU8Jn3W+cHrDxULen/9c9QpM/J9Dx/AgMBAAGjggIGMIICAjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIgnFwmpthhgi+zruvZHWcVSVKO3MD8GCCsGAQUFBwEBBDMwMTAvBggrBgEFBQcwAYYjaHR0cDovL29jc3AuYXBwbGUuY29tL29jc3AwMy13d2RyMjAwggEdBgNVHSAEggEUMIIBEDCCAQwGCSqGSIb3Y2QFATCB/jCBwwYIKwYBBQUHAgIwgbYMgbNSZWxpYW5jZSBvbiB0aGlzIGNlcnRpZmljYXRlIGJ5IGFueSBwYXJ0eSBhc3N1bWVzIGFjY2VwdGFuY2Ugb2YgdGhlIHRoZW4gYXBwbGljYWJsZSBzdGFuZGFyZCB0ZXJtcyBhbmQgY29uZGl0aW9ucyBvZiB1c2UsIGNlcnRpZmljYXRlIHBvbGljeSBhbmQgY2VydGlmaWNhdGlvbiBwcmFjdGljZSBzdGF0ZW1lbnRzLjA2BggrBgEFBQcCARYqaHR0cDovL3d3dy5hcHBsZS5jb20vY2VydGlmaWNhdGVhdXRob3JpdHkvMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMB0GA1UdDgQWBBSTIEZU5zMy5Or2CNGWL6iS6MEj3TAOBgNVHQ8BAf8EBAMCB4AwEwYKKoZIhvdjZAYBBwEB/wQCBQAwEwYKKoZIhvdjZAYBBAEB/wQCBQAwDQYJKoZIhvcNAQELBQADggEBABSi56gVYoutjrqigzGo8CGI4lxNgIyxOTu0b7i8jJLQL2Ibxms3feNYmgpqiPmCEsnjqCRuIY24Qc1KnQ2enVPq2UYn+PNc3m0qAOtFitmb+dFUsLO6PjGG8P350py6PPiUR46cZoMj/1Wq0oJX/fkINXrP3TFOMqgYJ3jPbiHMLx/EZ1TCntv/jIz9xD9k32GWsKaR0miQ9GZwPmLTST7Q6KI0JmKP6L8bepdBOcPU09ebdqbbJWmrjeSIHfLexapio+GVgp2q09u4lzkjotuA/9STK5WRYh4/EHsHrdVrJZXGcamYJuFLR4+VQD1y/U2jIbwWfCeOOwAl23us0jQ=</data>
+        </array>
+        <key>Entitlements</key>
+        <dict>
+            <key>beta-reports-active</key>
+            <true />
+            <key>com.apple.developer.pass-type-identifiers</key>
+            <array>
+                <string>9G47WR9NR2.*</string>
+            </array>
+            <key>application-identifier</key>
+            <string>9G47WR9NR2.pro.rzeszot.store</string>
+            <key>keychain-access-groups</key>
+            <array>
+                <string>9G47WR9NR2.*</string>
+            </array>
+            <key>get-task-allow</key>
+            <false />
+            <key>com.apple.developer.team-identifier</key>
+            <string>9G47WR9NR2</string>
+            <key>aps-environment</key>
+            <string>production</string>
+            <key>com.apple.developer.in-app-payments</key>
+            <array></array>
+            <key>com.apple.developer.associated-domains</key>
+            <string>*</string>
+            <key>com.apple.developer.authentication-services.autofill-credential-provider</key>
+            <true />
+        </dict>
+        <key>ExpirationDate</key>
+        <date>2021-03-16T21:33:30Z</date>
+        <key>Name</key>
+        <string>Store</string>
+        <key>TeamIdentifier</key>
+        <array>
+            <string>9G47WR9NR2</string>
+        </array>
+        <key>TeamName</key>
+        <string>Damian Rzeszot</string>
+        <key>TimeToLive</key>
+        <integer>348</integer>
+        <key>UUID</key>
+        <string>116fc328-d0be-4b0e-ab94-569352f58e76</string>
+        <key>Version</key>
+        <integer>1</integer>
+    </dict>
+</plist>
